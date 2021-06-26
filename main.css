@@ -95,6 +95,10 @@ section h4, section h3{
     font-size: 1.8rem;
 }
 
+section h4{
+    white-space: pre-wrap;
+}
+
 .img-container{
     text-align: center;
     margin: 0 auto;
